@@ -1,0 +1,5 @@
+@use "./utilities/variables" as *;
+.body{
+    background-color: #000;
+    color:$background
+}
