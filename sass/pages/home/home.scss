@@ -1,0 +1,11 @@
+@use "../../utilities/mixin1" as *;
+
+.nav{
+    @include flex(space-between,)
+}
+
+.s-batton{
+    padding: 20px;
+}
+
+
