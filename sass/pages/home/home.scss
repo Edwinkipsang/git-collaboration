@@ -1,7 +1,7 @@
 @use "../../utilities/mixin1" as *;
 
 .nav{
-    @include flex(space-between,)
+    @include sekani(space-between,)
 }
 
 .s-batton{
