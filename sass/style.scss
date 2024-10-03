@@ -1,2 +1,4 @@
 @use "./utilities/base" as *;
+@use "./utilities/mixin1" as *;
+@use '../sass/pages/home/home.scss' as *;
 @use "./utilities/variables" as *
